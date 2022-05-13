@@ -8,3 +8,5 @@ public static void main(String[] args) {
 SpringApplication.run(Application.class, args);
 }
 }
+
+//This is a new comment added to the rest.example project
