@@ -1,0 +1,4 @@
+This is a new file added to the rest.example project
+and commited and pushed to the develop branch.
+
+This file will later be merged into the main branch.
